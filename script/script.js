@@ -5,5 +5,3 @@ const myName="Davy";
 testText.innerHTML = myName;
 
 mainDiv.appendChild(testText);
-
-
