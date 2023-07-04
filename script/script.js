@@ -1,8 +1,9 @@
 const mainDiv = document.getElementById("mainDiv");
-const testText = document.createElement("p");
+const outputText = document.createElement("p");
+
 
 
 const myName="Davy";
-testText.innerHTML = myName;
+outputText.innerHTML = myName;
 
-mainDiv.appendChild(testText);
+mainDiv.appendChild(outputText);
