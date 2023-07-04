@@ -1,5 +1,5 @@
 const mainDiv = document.getElementById("mainDiv");
-const testText = document.CreateElement("p");
+const testText = document.createElement("p");
 
 const myName="Davy";
 testText.innerHTML = myName;
